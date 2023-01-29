@@ -14,12 +14,12 @@ body {
 }
 
 .wrapper {
-  background-color: #fff;
+  /* background-color: #fff; */
   display: flex;
   flex-direction: row;
   max-width: 1200px;
   margin: 0 auto;
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); */
 }
 
 .sidebar {
@@ -102,7 +102,7 @@ body {
 }
 
 .profession {
-  font-size: 14px;
+  font-size: 19px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 23px;
@@ -175,7 +175,7 @@ body {
 }
 
 .profession-time {
-  color: #a8a8a8;
+  color: black;
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
@@ -192,7 +192,7 @@ body {
 }
 
 .professional-duties-item {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
